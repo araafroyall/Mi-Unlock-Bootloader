@@ -106,12 +106,3 @@ mi-fastboot oem-unlock "UNLOCK_TOKEN"
 ```
 
 The device will factory reset and unlock successfully.
-
-
-
-## More Projects
-[ADBify — Android Debug Bridge](https://play.google.com/store/apps/details?id=com.rv882.adbify)
-
-[Heimdoo — Samsung flashing Tool](https://github.com/RohitVerma882/Heimdoo)
-
-[termux-adb — Prebuilt adb & fastboot binaries for Termux](https://github.com/RohitVerma882/termux-adb)
